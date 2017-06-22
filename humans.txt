@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Jerry ball
     <name> -- <role> -- <twitter>
 
 # THANKS
