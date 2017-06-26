@@ -3,9 +3,11 @@
 
 # TEAM
 	Jerry ball
+	Earl Thomas
     <name> -- <role> -- <twitter>
 
 # THANKS
+	Big plays
 
     <name>
 
